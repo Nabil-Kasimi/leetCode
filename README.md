@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nabil-Kasimi/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nabil-Kasimi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Nabil-Kasimi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Nabil-Kasimi/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Nabil-Kasimi/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nabil-Kasimi/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Nabil-Kasimi/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nabil-Kasimi/leetcode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nabil-Kasimi/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nabil-Kasimi/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
