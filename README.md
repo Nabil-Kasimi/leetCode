@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nabil-Kasimi/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nabil-Kasimi/leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Nabil-Kasimi/leetcode/tree/master/0205-isomorphic-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nabil-Kasimi/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Nabil-Kasimi/leetcode/tree/master/0205-isomorphic-strings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
