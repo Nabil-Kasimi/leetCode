@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nabil-Kasimi/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nabil-Kasimi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nabil-Kasimi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0804-unique-morse-code-words](https://github.com/Nabil-Kasimi/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1652-defuse-the-bomb](https://github.com/Nabil-Kasimi/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nabil-Kasimi/leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Nabil-Kasimi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0763-partition-labels](https://github.com/Nabil-Kasimi/leetcode/tree/master/0763-partition-labels) |
+| [0804-unique-morse-code-words](https://github.com/Nabil-Kasimi/leetcode/tree/master/0804-unique-morse-code-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nabil-Kasimi/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/Nabil-Kasimi/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## String Matching
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nabil-Kasimi/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nabil-Kasimi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0763-partition-labels](https://github.com/Nabil-Kasimi/leetcode/tree/master/0763-partition-labels) |
+| [0804-unique-morse-code-words](https://github.com/Nabil-Kasimi/leetcode/tree/master/0804-unique-morse-code-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nabil-Kasimi/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/Nabil-Kasimi/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Floyd's Cycle Finding Algorithm
